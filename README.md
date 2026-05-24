@@ -55,9 +55,10 @@
 
 ## 📊 GitHub Analytics
 
-| | |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=VishalDandriyal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="100%"/> | <img src="https://github-readme-streak-stats.herokuapp.com?user=VishalDandriyal&theme=tokyonight&hide_border=true&border_radius=10" width="100%"/> |
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=VishuDan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VishuDan&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="GitHub Streak" />
+</p>
 
 ---
 
